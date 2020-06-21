@@ -1,6 +1,6 @@
 # FeedApp
 
-A new Flutter project.
+Flutter template for restaurant app.
 
 ## Getting Started
 
